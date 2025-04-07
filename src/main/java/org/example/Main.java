@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Date;
 
-public class A {
+public class Main {
     public static void main(String[] args) {
         System.out.println("Hello and welcome!");
         System.out.println("This is a test for the new branch.");
