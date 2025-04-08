@@ -6,5 +6,6 @@ public class Student {
     }
     public void sayHello(){
         System.out.println("Hello I am Student");
+        System.out.println("This is a test for the new branch.");
     }
 }
