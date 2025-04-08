@@ -10,5 +10,7 @@ public class Main {
         System.out.println("This is a test for the new branch.");
         System.out.println("Bhai Branch.");
         System.out.println("New Branch Added.");
+        Student student = new Student();
+        student.sayHello();
     }
 }
